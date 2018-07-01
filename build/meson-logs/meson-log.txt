@@ -1,0 +1,24 @@
+Build started at 2018-07-01T13:18:59.986287
+Main binary: /usr/bin/python
+Python system: Linux
+The Meson build system
+Version: 0.46.1
+Source dir: /home/walt/gtd/prs/d/remcc
+Build dir: /home/walt/gtd/prs/d/remcc/build
+Build type: native build
+Project name: remindcc
+Sanity testing C++ compiler: c++
+Is cross compiler: False.
+Sanity check compiler command line: c++ /home/walt/gtd/prs/d/remcc/build/meson-private/sanitycheckcpp.cc -o /home/walt/gtd/prs/d/remcc/build/meson-private/sanitycheckcpp.exe
+Sanity check compile stdout:
+
+-----
+Sanity check compile stderr:
+
+-----
+Running test binary command: /home/walt/gtd/prs/d/remcc/build/meson-private/sanitycheckcpp.exe
+Native C++ compiler: c++ (gcc 8.1.1 "c++ (GCC) 8.1.1 20180531")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja

@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/walt/gtd/prs/d/remcc/build",
+    "command": "c++ -Iremcc@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -Wextra -Werror -std=c++17 -O0 -g  -MD -MQ 'remcc@exe/src_main.cc.o' -MF 'remcc@exe/src_main.cc.o.d' -o 'remcc@exe/src_main.cc.o' -c ../src/main.cc",
+    "file": "../src/main.cc"
+  }
+]
